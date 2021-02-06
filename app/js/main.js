@@ -138,7 +138,7 @@ new Swiper('.image-slider',{
       //   el: '.image-mini-slider',
       //   slidesPerView: 6,
       // }
-      }
+
     });
 
 });
